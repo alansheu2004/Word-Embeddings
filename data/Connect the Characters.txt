@@ -1,0 +1,6 @@
+Connect the Characters is one of Mario's minigames in Super Mario 64 DS. Its name is likely a pun on "connect the dots." This minigame is very similar to another minigame, Mario's Slides. 
+The music for this minigame is an arrangement of "Spinning Slots" from Super Mario Bros. 3.
+
+The player sees four heads of the characters at the top of the screen and the bodies of them on the bottom. The goal of the minigame is to match each falling head to the correct body by drawing with the stylus horizontal lines between the four main vertical ones, creating different paths. Each head takes every horizontal path it comes to. Once the player has finished making the paths for the heads to match to their respective bodies, the player can press the "GO!" button on the bottom to see them sliding down to the bodies. As the minigame progresses, the paths drawn previously remain, making it harder to properly match the pieces. After five rounds, the lines are cleared away, and the difficulty rises. Other characters' heads are added as the minigame goes on, starting with just Mario and Yoshi, but adding Luigi and Wario in later levels. If any character's head goes to the wrong body, the minigame ends.
+
+Draw lines to match the characters' heads to their bodies. Press "GO!" when you're finished to see how you fared!

@@ -1,0 +1,9 @@
+Skateboarding - Park is an event in Mario & Sonic at the Olympic Games Tokyo 2020 where the goal is to get the highest number of points within 90 seconds.
+The starting record for the game is 581.183 points, which is listed as "Best Record" as the event was debuting in these Olympics Games and that no world records are tracked in this sport discipline.
+
+The skater skates around in a bowl with various ramps, curves and quarterpipes in order to perform tricks to increase the score.
+The format differs somewhat from those of real-life major skateboard park events: There is only one run per skater, and the skater cannot choose to end their current run early without quitting the event. While a typical real life event cannot go higher than 200 points (Two perfect runs of 100 points each), in this game the scores can reach up to more than 600. The scores are given in three decimals.
+The park also does not have stairs or fences, and runs can be ended if the timer runs out while the skater is in mid-air.
+The combo system involves performing tricks in quick succession as opposed to in one go, making the combo system resemble the Skate games rather than Tony Hawk's.
+
+The non-motion controls resemble those of the Tony Hawk's Pro Skater games, the biggest difference being that forwards thrust is by tilting  up as opposed to holding .

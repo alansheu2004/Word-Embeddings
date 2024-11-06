@@ -1,0 +1,37 @@
+Mario's Picross is a puzzle game for the Game Boy developed by Jupiter and the first game in the Nintendo-published Picross series. It was released in 1995 and stars Mario, who appears in the role of an archaeologist. Mario's Picross is based on paint-by-number puzzles known as nonograms. Several sequels have been released since then, most of which are Japan-only games.
+
+The objective of each logic puzzle is to reveal a hidden picture in a grid by scraping specific squares of it. Each puzzle starts with an empty grid and several numbers are given at the side of each horizontal row and vertical column of the grid. The numbers tell the player how many squares have to be scraped in each line. 
+For example, a "5" means that the player has to scrape five consecutive squares in the respective line. If there is more than one number, then there has to be at least one blank square between the scraped areas. For instance, "4 6 2" means that four consecutive squares have to be scraped in the line, followed by at least one blank square. After the blank space(s), the player has to scrape an area of six squares. Again, there has to be at least one blank square between this area and the last two consecutive squares that have to be scraped. If the player is sure that a square doesn't have to be scraped, e.g. when a blank square is needed or all required squares in a line have been scraped, they can mark it with an "X".
+The revealed pictures show food, animals and other objects, but also make some Super Mario franchise references. 
+
+The game features 256 puzzles in total. All puzzles are a size of 15x15 squares, except for the 5x5 and 10x10 square puzzles of Easy Picross that are aimed at beginners. The puzzles are split into different modes (64 puzzles each): 
+
+The first two modes, where the puzzles can be played in any order, follow the same rules. Before playing the game, the player can decide to get a hint, which means that the correct squares of a row and a column are already scraped when starting the puzzle. A roulette the player has to stop defines which lines are revealed, which can make a puzzle easier to solve, though it is possible to solve them all without using hints. Each puzzle has a time limit of 30 minutes. Marking squares with an "X" that should be scraped incurs no penalty, but scraping squares that should not be scraped reduces the time limit. The first mistake costs two minutes, the second one four minutes, and any others eight minutes each, meaning that a maximum of five mistakes can be made. If time runs out before the player has revealed the picture, the game is over. For each puzzle, the first and best times are saved, with an "H" to the left of the time if a hint was used to solve a puzzle.
+
+The last mode known as Time Trial comes with different rules. The player does not get a hint at the beginning, and the game does not note wrongly-scraped squares, so the player does not know whether a mistake has been made. The 64 puzzles appear randomly; the player is not able to select a specific puzzle. This random selection is guaranteed to show the player a puzzle they have not yet solved, until all 64 possible puzzles have been solved once.
+There is no time limit - instead, time counts up from zero, measuring how long the player took to solve the puzzle. Upon completing a puzzle, the player has the option to enter their time into a high-score board of fastest times, with up to three letters to represent their name. This score board is shared across the 64 possible puzzles. After entering a score, the player can decide to "try again" - however this will load a random puzzle, not necessarily the one that was just completed.
+The default entries on the score board are the following:
+
+The puzzles in the game's first three courses are stored in order in the game's memory; this pattern has been used to determine the "order" of the Time Trial puzzles.
+
+Some of the pictures show characters, enemies, and items from the Super Mario franchise. A picture of the Game Boy appears, too. Caption of these puzzles appear in full uppercase, unlike other puzzles which their caption appear in full lowercase.
+Easy Picross
+
+Kinoko Course
+
+Star Course
+
+Time Trial
+
+In the overseas release of the game, a handful of puzzles were changed to remove references to alcohol and other elements. The puzzles included in the Japanese release are listed below.
+Easy Picross
+
+Kinoko Course
+
+Star Course
+
+Time Trial
+
+Mario's Picross was unable to sell notably well in either North America or Europe when it was released, leading both territories to no longer receive any more Picross games by Nintendo until Picross DS in 2007. The game, despite citations that the Game Boy's tiny screen makes it difficult to see the puzzles clearly, is considered a cult hit in the Western world.
+
+Due to the game's success in the region, Japan received a number of sequels. The first one was Mario's Super Picross for the Super Famicom in 1995, followed by the Game Boy title Picross 2 in 1996. In 1999 and 2000, eight Picross NP games for the Super Famicom were released and could be downloaded by the players onto Nintendo Power cartridges. Four of them feature puzzles related to the Super Mario franchise. Of these, Mario's Super Picross is the only one available outside of Japan, appearing on the European and Australian Virtual Consoles in September 2007 for the Wii and April 2013 for the Wii U. Japan received a Virtual Console release in December 2006 for the Wii and April 2013 for the Wii U. In 2012, a Japan-only Club Nintendo exclusive title called Club Nintendo Picross was released; that title received a sequel called Club Nintendo Picross+ in 2014.

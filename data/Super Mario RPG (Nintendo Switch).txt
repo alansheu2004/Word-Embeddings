@@ -1,0 +1,38 @@
+Super Mario RPG is a Nintendo Switch remake of the 1996 Super Nintendo Entertainment System game Super Mario RPG: Legend of the Seven Stars released worldwide on November 17, 2023. First announced during the June 2023 Nintendo Direct, this remake reimagines the original game in full 3D graphics, mostly maintaining the original characters' designs and proportions. The game's soundtrack has also been rearranged with new orchestration by the original game's composer, Yoko Shimomura. It was developed by ArtePiazza, a studio associated with Square Enix and known for their work on remaking entries in the Dragon Quest series. 
+
+The localization of the remake is not handled by Square Enix like that of the original, but rather by Nintendo's international divisions. Many text changes are made as a result of this.
+
+A new gameplay mechanic is the Action Gauge. When the player successfully performs Action Commands, the Action Gauge fills by a percentage. When filled to 100%, the player can use a special ability called a Gauge Move, or a Triple Move with three active party members. Using these moves depletes the Action Gauge, which can then be filled up again.
+
+Another new battle mechanic is the inclusion of Chains when executing Action Commands for their attacks, Specials or guards. The party earns temporary buffs to their stats when successfully chaining Action Commands, and the buffs increase the higher their Chain count: a Chain of two provides a "Small Boost", three provides a "Regular Boost", and five provides a "Big Boost". Every 10 Chain fills the Action Gauge by a moderate amount.
+The type of buffs rewarded to the party is dependent on the party members present in battle, each with their own inherent and exclusive Ally Buff.
+
+The Chain count and number of Ally Buffs carry over in other battles until the player misses an Action Command, in which case the player loses their buffs and their Chain count is set to zero.
+
+In a similar vein to the "Shiny" enemies in Mario & Luigi: Paper Jam, the player may randomly encounter stronger identical versions of regular enemies in battle, called "Special Enemies". A special enemy has triple the stats of its regular counterpart, and is immune to Critical Hits. Defeating it rewards the player with twice the amount of coins and experience points, and one Frog Coin. The rate of encountering a special enemy is 20%.
+
+In Normal Mode, each item has a different limit on how many can be collected. If the limit is exceeded for a certain item, any more that are collected are sent to a storage box in Mario's Pad which the player can retrieve at any point if they go under the limit again. In Breezy Mode, the maximum quantity of all items is 30.
+
+Unlocked after given a map of the world by a Toad NPC, the player can fast-travel to areas they already visited.
+
+A new menu feature is the Monster List, a bestiary that can be filled up by encountering different enemies. For each enemy, the player can view its name, experience yield, weaknesses, drops, locations, times defeated, a short description, Thought Peek text, and animations.
+
+Another new feature in the game is the Scrapbook that chronicles the events of the game with pictures and journal entries from party characters.
+
+After clearing the game at least once, a star is added to the player's save file, and opening the file takes the player to Mario's Pad, in the events right before fighting Smithy. At this point the player can rematch several bosses. Upon defeat, some of the bosses reward the player with new equipment, while others reward new weapons for Mallow, Geno, and Bowser. Clearing the game also unlocks a Sound Player and statistical list in the Journal sub-menu.
+
+The Sound Player allows the player to listen to the tracks from both the original Super Nintendo and current versions of this game.
+
+The Play Report lists records of some of the player's activity on their save file, and rewards them with gold medals when beating minigame records.
+
+Upon loading a save file after defeating Smithy, Mario will awaken back at his house, with Toad entering and giving him a Stay Voucher for the Marrymore Hotel. After staying for a night at the hotel, Geno will suggest Mario visit Star Hill, where new wishes have appeared, which unlock boss rematches against several of the game's bosses. Mario must talk to the Frog Sage in order to initiate these rematches.
+
+After finishing all the boss rematches, Culex's door in Monstro Town reappears; using the Extra-Shiny Stone removes the seal on the door and the player can then have a rematch with Culex in a much tougher battle. Defeating him rewards the player with a Crystal Shard commemoration item. Defeating Smithy after this includes some of the boss characters in the game's ending cutscenes including Belome, Tortes, Jagger, Jinx, Culex in his 2D form, and Punchinello.
+
+By pre-ordering the game through GameStop, customers also receive a six-piece button set. By ordering the game through the My Nintendo Store in Europe, customers also get a keyring featuring artwork of Geno and an acrylic standee of the game's party members and logo. A pin set bundle is also available to purchase.
+
+In Tetris 99, a theme based on Super Mario RPG was made available during the 36th Maximus Cup, featuring several songs from the soundtrack.
+
+The Nintendo Switch remake of Super Mario RPG was developed by ArtePiazza in collaboration with Nintendo. From the original version's staff, Yoshihiko Maekawa, who co-directed the original game as well as Mario & Luigi: Superstar Saga, acted as supervisor and Yoko Shimomura, who composed the music for the original version as well as all games in the Mario & Luigi series, rearranged the soundtrack for the remake.
+
+As of March 31, 2024, the game had sold 3.31 million units worldwide, having crossed the 3 million mark in six weeks.

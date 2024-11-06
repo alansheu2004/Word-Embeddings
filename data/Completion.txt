@@ -1,0 +1,236 @@
+Many video games feature the concept of completion, which provides an incentive to play the game beyond just reaching the end of the main storyline. This may be through optional objectives, hidden collectables, ranking systems, and the like.
+These games often indicate the player's completion percentage, usually on the file selection screen. This page details how full completion is achieved in Super Mario games that feature it and what changes take place when it is achieved.
+
+Some games may feature side quest and objectives even if they do not track or acknowledge the player's completion total. For example, a player might consider Paper Mario: The Thousand-Year Door to only be fully complete if they fill in the entire Cookbook, complete every Trouble Center sidequest, find all the Star Pieces, etc. For organization, this page details only games which explicitly track or acknowledge the player's total completion.
+
+In the "Nagatanien World" mode of Kaettekita Mario Bros., completing a phase after the first 100,000 points reveals a congratulatory message and a code in hiragana that could be mailed in to enter into a drawing for a pack of Super Mario Bros. 3-themed playing cards during the game's post-release promotional campaign. Doing the same after 200,000 points reveals a different message and another code to enter a drawing for a Famicom cartridge of Super Mario Bros. 3.
+
+In the Virtual Boy game Mario Clash, a different Super Mario franchise character will be shown with a congratulatory message for every 100,000 points collected. When the maximum 999,999 points have been collected, a cast roll will play with the game's enemies holding white flags. A message then appears which reads "All right, that's it - you win!".
+
+For the remakes of Mario Bros. in each of the Super Mario Advance installments and Mario & Luigi: Superstar Saga, up to five stars show up next to the Mario Bros. logo based on how many points have been accrued in the game. One star appears for every 180,000 points earned, with five stars at 900,000 points being the maximum.
+
+In Super Mario Bros., clearing World 8-4 allows the player to replay the game in Hard Mode. The player can choose which world to start at by pressing  before beginning Hard Mode. All Goombas are replaced by Buzzy Beetles, Koopa Troopas move faster than normal, and platforms are shorter.
+In the Super Mario All-Stars version, the star before the level number indicates that the player is currently playing Hard Mode. The player cannot select which world to start from in this version, and clearing Hard Mode is necessary to complete the game.
+Super Mario Bros. Deluxe gives the player two awards for beating the game: the Mario Award for clearing Normal Mode, and the Bowser Award for clearing Hard Mode.
+
+In Super Mario Bros.: The Lost Levels, reaching the end of World 8 without using Warp Zones to skip ahead allows the player to continue to World 9, and upon completing World 9 the player returns to World 9-1 in an endless loop until losing one life, revealing an ending unique from that of a warp-assisted completion in World 8-4.
+Each time the game is completed, a star appears on the title screen. Once eight stars are acquired, holding the A button begins a new game starting in World A, allowing for progress to Worlds B, C, and D, at the end of which lies yet another ending. The game can have up to twenty-four stars on the title screen.
+In the Super Mario All-Stars version, the eight-completions requirement is absent, and World A always follows World 8 or 9 depending on whether Warp Zones were used. Access to World 9 can be permanently lost by using a Warp Zone at all, even if the player had accessed World 9 before.
+Neither World 9 nor Worlds A, B, C and D are accessible in the Super Mario Bros. Deluxe version. This version also gives an award for beating the game, the Yoshi Award.
+In the Famicom Mini port for the Game Boy Advance, the original requirements for World A remain, but the B button must be held rather than the A button.
+All Night Nippon: Super Mario Bros. uses the same game engine as Super Mario Bros.: The Lost Levels. This game also has an eight star requirement to access Worlds A through D, but the title screen has a limit of 20 stars. There is no World 9.
+
+In the Super Mario Advance version, a green Yoshi egg appears on the title screen after completing the Super Mario Bros. 2 portion of the game. Completing the Yoshi Challenge by collecting all forty eggs throughout the game's twenty levels will replace the Yoshi egg with a grown green Yoshi. If all 100 Ace Coins are also collected, the Yoshi/Yoshi egg on the title screen will turn red, and the title screen's sky will become sunset-themed.
+Also exclusive to Super Mario Advance, small Mario head icons will appear on save files, one for every 2,000,000 points accrued on the file, with five heads (after 10,000,000 points) being the maximum.
+
+The Super Mario Advance 4: Super Mario Bros. 3 version allows the player to revisit previous worlds and stages after Bowser is defeated in Bowser's Castle. The file select screen tracks how many stages one has cleared on each save file; clearing all 90 will add stars to the current world number on the file select screen, and Toad Houses, Enemy Courses, and Spade Panels can also be revisited at player's leisure. The game also has point stars fulfilling the same role as the Mario heads in Super Mario Advance. One star appears over the Super Mario Bros. 3 logo on the game select screen for every 1,000,000 points accrued, with five stars (after 5,000,000 points) being the maximum.
+In the Virtual Console and Nintendo Switch Online releases of Super Mario Advance 4: Super Mario Bros. 3, all thirty-eight levels of World-e are unlocked by default (even though in the original hardware, only thirty levels could be supported at once). The game keeps track of how many of the total 147 Advance Coins the player has collected as well as whether each stage has been completed by Mario or Luigi. There are also eight e-Coins to collect, which fill the frames in the e-Coin Castle. There is no reward for completing all the levels, nor for obtaining all collectibles.
+
+In Super Mario World, 100% completion requires finding all 96 of the game's exits. In the original SNES version and Super Mario All-Stars + Super Mario World, doing this places a star before the completion counter on the file selection screen in the American version and earlier European versions, or turns the number blue in later European versions. Other exits include the Giant Gate past the secret Keyhole in Donut Plains 2, the second Giant Gate in Chocolate Island 2, and the paths accessed using Yoshi's Wings in Cheese Bridge Area, Valley of Bowser 2 and Way Cool (making up a total of 101 exits), although these exits are treated as regular exits and therefore are not also required for 100% completion. Likewise, the Front Door and Back Door are both counted as the same exit, so the player is only required to complete one of them.
+Completing the Special Zone will trigger Fall, which changes the map color scheme and the sprites of several enemies (Bullet Bills become Pidgit Bills, etc.)
+
+In its Game Boy Advance remake, Super Mario World: Super Mario Advance 2, clearing all 96 exits will mark the file select screen with "Extra", and a cutscene will play showing Luigi in a balloon throwing down a Koopa Troopa mask, thereby triggering Fall. The game will display the message "Mario and Luigi have found all of the goals. Congratulations!!! Now you can play a slightly different Dinosaur Land!" Collecting five Dragon Coins in each level will trigger a different cutscene where Yoshi transforms a coin into one with a Princess Peach image, and the words "Perfect" will be shown. The game's status screen will also show an image of a Dragon Coin. 
+Similar to other Super Mario Advance titles, one star will appear next to the Super Mario World logo on the game selection screen for every 1,000,000 points earned, with five stars after 5,000,000 points being the maximum.
+
+In Super Mario Land 2: 6 Golden Coins, similar to Super Mario World, the number of stages the player has cleared is displayed over their file. The game is completed by finding and beating all 31 stages (this excludes Wario's castle, as the game does not save after defeating Wario). A Game Over causes this number to decrement by the number of Golden Coins Mario had before the Game Over occurred.
+
+100% completion in Super Mario 64 is achieved by collecting all of the game's 120 Power Stars (150 in Super Mario 64 DS).
+After collecting every star, the following changes take place:
+
+100% completion in Super Mario Sunshine is achieved by collecting all of the game's 120 Shine Sprites. The Delfino Plaza area becomes progressively brighter as the player collects Shine Sprites. Collecting them all will replace the after-credit picture of Il Piantissimo finding the magic brush to a group photo of the game's friendly characters with the caption "Have a relaxing vacation!" and adds a red sun icon to the player's save file.
+
+New Super Mario Bros. has up to three stars show up next to the player's save file by completing hidden objectives. They are the following:
+
+Acquiring the secret exit star unlocks unlimited access to all Toad Houses, except for the ones blocked by Star Coin Signs, but removing them will give them the treatment.
+
+In Super Mario Galaxy, collecting the game's 120 Power Stars and beating the final Bowser battle a second time will unlock the "Super Luigi Galaxy" mode, in which players play through the game again as Luigi. Collecting all 120 stars and defeating Bowser twice in this mode unlocks the Grand Finale Galaxy in both modes, in which the player can obtain one final Power Star for each respective mode and send a commemorative message and photo to the Wii Message Board (or Nintendo Switch album for Super Mario 3D All-Stars) after talking to Mailtoad. If the player has collected 9,999 Star Bits, the coconuts turn into watermelons.
+
+New Super Mario Bros. Wii has a similar star system to its predecessor, although the number next to the save file now goes up to five. The requirements for them are as follows:
+
+Fulfilling all of these requirements and earning the stars also gives the player unlimited access to every Toad House in the game. If the player triggers the appearance of a Super Guide Block by losing eight lives in a level since it was last completed, and then the player saves, the stars will not sparkle, even if the player did not make use of the Super Guide effect.
+
+In Super Mario Galaxy 2, collecting the game's regular 120 Power Stars and beating the final Bowser battle a second time will unlock the Green Star comet and a silver crown icon on the save file, with the file rank "The Green Star Challenge Is On!" Collecting all 120 Green Stars will, in turn, unlock both the Grandmaster Galaxy and a golden crown save icon. Collecting both stars from this galaxy will unlock a bejeweled platinum crown save icon and a "Master of Galaxies!" rank as well as the number of lives used to complete the game. A photo is also sent to the Wii Message Board, with a message that reads "Dear Player, You deserve a congratulations of cosmic proportions for collecting all of the Stars and playing to the very end. Thank you! You are truly a master of galaxies! SUPER MARIO GALAXY 2 Staff"
+If the player has collected 9999 Coins in the coin collection in Starship Mario, the Luigi Ghosts will be added in all levels. After depositing 9999 Star Bits with Banktoad, all coconuts in the game become watermelons and the final mission in Grandmaster Galaxy becomes accessible, provided that the previous mission had already been completed beforehand.
+
+Similar to the New Super Mario Bros. games, Super Mario 3D Land gives the player up to five stars on their save file for completing various objectives. These are:
+
+In addition to this, the stars on the player's file will sparkle as long as they have never seen an Assist Block (triggered by losing five lives in the same course).
+Getting the third star makes every level display which of the brothers have cleared it, and getting all five unlocks Special 8-Crown.
+
+New Super Mario Bros. 2 features the save file stars seen in the previous New Super Mario Bros. games to indicate completion. The player earns them by:
+
+Fulfilling all of these requirements and earning the stars also gives the player unlimited access to every Toad House in the game. The stars will also sparkle so long as no Assist Block is triggered in any course; the player can restore the stars' sparkles by clearing all courses that contain an Assist Block.
+Being themed around coins, New Super Mario Bros. 2 also features a coin counter that tracks the total number of coins players have collected across all three save files and in Coin Rush on their copy of the game. The title screen will also reflect the total by displaying piles of coins that grow increasingly larger as the player collects more, and the game will display a message whenever the player reaches a milestone. When the player collects 1,000,000 coins, the title screen changes to a golden color and a gold statue of Mario appears on the title screen. When the player collects 9,999,999 coins (the highest the counter goes), the statue is replaced with one of Raccoon Mario.
+
+New Super Mario Bros. U and its expansion, New Super Luigi U, once again feature the ability to earn five stars on a save file for fulfilling various conditions. Unlike in the previous New Super Mario Bros. games, the game will display a message whenever the player fulfils one of these conditions, which are:
+
+Fulfilling all of these requirements and earning the stars also gives the player unlimited access to every Toad House in the game. Similar to New Super Mario Bros. 2, the stars on the player's file will sparkle so long as they never use the Super Guide, although in this case, they are permitted to trigger the Super Guide Block's appearance. Additionally, having a life count of 99 will cause the number to appear gold on the file select screen.
+Additionally, earning a gold medal across all Challenge Mode categories will display a congratulatory message to the player.
+
+As in Super Mario 3D Land, Super Mario 3D World gives the player stars on their profile to indicate completion, and uses similar criteria for them to be unlocked. To complete the game and earn five stars on their profile, the player must:
+
+The progress of the latter four criteria can be checked by opening the Map menu while on the World Map and moving to the Course List section, which lists every unlocked level and their fastest clear times and highest scores, alongside indicators for Green Stars and Stamps. Individual character completion can also be viewed after unlocking World Crown.
+Similarly to New Super Mario Bros. 2, the stars on the player's file will shine if the player clears every level without using the Invincibility Leaf (there is no penalty for having the Assist Block appear, only for collecting its power-up). If the player loses their shining profile stars, they can be regained by clearing all levels where the Invincibility Leaf had been used again without using it.
+
+In the Super Mario 3D World campaign of Super Mario 3D World + Bowser's Fury, the requirements for getting five profile stars are identical aside from the fact that using the Cat Mario amiibo to obtain the Invincibility Bell has no penalty regarding said stars. However, the Bowser's Fury campaign has separate profiles, which can also display a maximum of five stars. 
+Three stars are earned by defeating Fury Bowser as Giga Cat Mario, with each time the player defeats him adding one star until he is defeated three times. A fourth star is earned upon collecting all one hundred Cat Shines, and a fifth is earned if the player defeats Giant Bowser after collecting one hundred Cat Shines. Additionally, the stars will shine if the player does not use the Cat Mario amiibo to obtain the Invincibility Bell.
+By collecting all one hundred Cat Shines and defeating Giant Bowser again, a special painting is shown after the credits. When returning to gameplay, Cat Mario and Bowser Jr. have different appearances, with the former's suit being changed to look like Giga Cat Mario, and the latter gaining cat-like ears, fur, and a tail, with his Clown Car also gaining whiskers. Fury Bowser also has bright white hair and spikes. While the changes to character design are purely aesthetic, future battles against Fury Bowser and Giant Bowser on that save file are notably more difficult. However, there is no reward for completing this new version of the ending sequence.
+
+Super Mario Odyssey has multiple stages of completion that are tracked by the game.
+Collecting every Power Moon in one Kingdom adds a star next to its Moon List, while obtaining all 880 individually named Moons (including ones from the post-game) turns the sail of the Odyssey gold and unlocks a harder version of the final boss battle against Bowser, found in a painting in the Wedding Hall of the Moon Kingdom. However, the total Power Moon count caps at 999, requiring the remaining 119 Moons to be purchased for 100 coins each at Crazy Cap stores. Doing so adds a huge top hat to Princess Peach's Castle, which can be climbed upon to activate a special fireworks display.
+The game also tracks the total number of regional coins collected in each Kingdom, alongside a total of 52 captures, 55 outfits, 43 souvenirs, and 82 music tracks. Like with Power Moons, completing each set adds a star next to its total. Obtaining all 880 normal Power Moons, souvenirs, outfits and caps (excluding those added in updates) and filling the capture and music lists adds a star to the save file.
+The Balloon World minigame also tracks stats, with up to ten completion stars available for each stat: coins earned in Find It, total balloons found, balloons found in a row, coins earned in Hide It, and others' tries to find the player's balloons, for a total of fifty stars. If all are gained, Luigi's balloons turn golden.
+
+Completion in Super Mario Bros. Wonder is tracked by medals in a save file. A completely cleared game has six medals:
+
+The Wonder Seed, 10-flower coins, and the top of the Goal Pole in The Final-Final Test Badge Marathon are not counted for their respective medals, as they are already required to obtain the Sound Off? badge. Collecting all six medals and reaching completion awards the player with an alternative title screen that changes the background from light to dark.
+
+Super Mario World 2: Yoshi's Island features a scoring system that gives the player a total score out of 100 at the end of each level based on how many collectibles (Red Coins, Smiley Flowers, and Stars) they have obtained in the stage. By obtaining a perfect 100 score for every stage in a world, the player unlocks a more difficult Extra level, and by completing that stage with a perfect score a star is added to the title screen. Thus, a complete save file will have six stars (one for each world) on the title screen.
+In Yoshi's Island: Super Mario Advance 3, while the criteria for completion has not been changed, six Secret stages have been added to the game, accessible after defeating Baby Bowser. Gaining 1,000 points in all six worlds (i.e. a perfect 100 score in all sixty stages) will add a number to the file screen that corresponds to how many lives it took to achieve a perfect file. A perfect score is "No. 1", meaning that it took only one Yoshi to achieve this. This version also includes a new ending cutscene that plays once this is achieved, and, like the normal ending in both this version and the original, ends on a screen where the player has to either turn off or reset the game.
+
+Yoshi's Island DS features a star system similar to Super Mario World 2: Yoshi's Island, where collecting 1,000 points in a world will place a star on the title screen. A maximum of five stars can be displayed.
+Additional collectibles are the character coins found in each of the game's main levels, except for World 5-8. Collecting all the character coins in a world will unlock a hard version of one of the minigames. A Baby Mario head can also be seen on the game's score screen for collecting all character coins in each of the five worlds.
+
+Yoshi Topsy-Turvy may be fully completed by unlocking all of the "Bonus Game" beads on the game's main menu. Each bead may be unlocked by fulfilling the following conditions:
+
+In Donkey Kong Country, save files display a completion percentage. The maximum completion percentage is 101%. To complete the game, a player must:
+
+Obtaining 101% completion will replace the percent character ("%") with a sunburst icon next to the save file. It also changes Cranky Kong's line during the ending from "If I had been playing, I'd have found everything! I'm sure there must be some bonus rooms you haven't found!" to "What a player you are, Donkey my lad! You've beaten the Kremlings, and found absolutely everything! You're nearly as good as I used to be!"
+
+In the Game Boy Color version, the player will need to meet additional requirements for 101% completion:
+
+Obtaining 101% completion will change Cranky Kong's dialogue during the ending and the box Diddy Kong climbs on at the end of the staff credits reveals a banana trophy.
+While the minigames do not contribute towards 101%, the player can view the Banana Coins won from Candy's Challenge on the Bonus menu and clearing all 6 levels of Crosshair Cranky will unlock the Banner Creator for the Game Boy Printer.
+In the Game Boy Advance version, the requirements are different again:
+
+When the player get at least 90% on a save file, "Hero Mode" will be unlocked. The requirements for getting 101% completion in Hero Mode are the same as in the SNES version. A player does not need to collect the K-O-N-G Letters or complete the Scrapbook.
+The new DK Attack mode does not contribute towards file completion, but the player does receive a rank for each level based on their top score, ranging from D-Rank to S-Rank. Obtaining an S-Rank on every level will change the menu's background to the artwork used in the Super Famicom version's title screen.
+
+In Donkey Kong Land, the player's save file displays a maximum completion percentage of 100%. To complete the game, they must:
+
+Achieving 100% has no effect on the game or ending.
+
+In Donkey Kong Country 2: Diddy's Kong Quest, the player's save file displays a maximum completion percentage of 102%. To complete the game, they must:
+
+The Game Boy Advance version has additional requirements:
+
+The Game Boy Advance version allows players to unlock all levels at once by entering the cheat code "FREEDOM" on the Cheats Menu. The player can still achieve 102% when this cheat is active.
+
+In Donkey Kong Land 2 the maximum completion percentage is 100%. The requirements are largely the same as those required for 102% in Donkey Kong Country 2: Diddy's Kong Quest. The player must:
+
+In Donkey Kong Country 3: Dixie Kong's Double Trouble!, the maximum completion percentage for a standard game is 103%, but the player can achieve up to 105% if they play using cheats. To complete the game, they must:
+
+If the player enters the HARDR code on a new game file (HARDER in the GBA remake), then most DK Barrels are removed from the game. Beating the game with this code active will give the player 104% completion.
+If the player enters the TUFST code on a new game file (TUFFER in the GBA remake), then most DK Barrels and all Star Barrels will be removed. Beating the game with this code active will give the player 105% completion, a trophy of Cranky Kong wearing a black belt Karateka outfit, and the rank "Immortal Monkey!" Using other codes in combination will instead earn the player the "Cheatin' Chump" rank.
+In the Game Boy Advance version, the completion requirements are the same as the SNES version. If the player plays with the HARDER or TUFFER codes active, they will always receive the "Cheatin' Chump" rank. In addition, there are five extra Banana Birds to collect by beating the minigames.
+
+In Donkey Kong Land III, the maximum completion percentage is 103%. To complete the game, the player must:
+
+Once the player achieves 103%, they are presented with a 103% trophy and the message "Congratulations, game completed!"
+
+In Donkey Kong 64, the maximum completion percentage is 101%. To complete the game, the player must:
+
+Defeating King K. Rool with 101% unlocks a humorous alternate ending showing the Kongs swimming away with K. Lumsy followed by Cranky Kong doing "auditions" of the game's cast for an untitled "dolphin" production.
+
+In Donkey Kong Jungle Beat, the game is completed by earning four Crests in each kingdom in the game. Once the player has all 72 Crests, the message "COMPLETE" will appear next to the total Crest counter, and the menu music permanently changes to a triumphant version of the main theme.
+In New Play Control! Donkey Kong Jungle Beat, the player completes the game by collecting three Crests in each kingdom, earning a crown. In this version, collecting all of the Crests not only changes the menu music but also gives Donkey Kong a crown when replaying stages.
+
+In DK: King of Swing, the player can earn a maximum completion percentage of 200%. To do this, they must:
+
+In Donkey Kong Country Returns, the player can earn a maximum completion percentage of 200%. To complete the game, they must:
+
+Puzzle Pieces and Time Attack medals do not contribute towards 200% completion. Collecting the K-O-N-G Letters in Mirror Mode will mark them as blue on the status screen, but this also does not contribute towards completion.
+
+In Donkey Kong Country: Tropical Freeze, the player can earn a maximum completion percentage of 200%. The requirements for completing the game are:
+
+As in Donkey Kong Country Returns, Puzzle Pieces, Time Attack medals, and Hard Mode KONG Letters do not contribute towards 200% completion.
+
+In the closing sequence of Wario Land: Super Mario Land 3, how the Genie grants Wario's wish for a castle is dependent on the total number of coins collected throughout the game. The perfect ending requires Wario to clear all 40 courses (which involves finding the alternate course exits). All 15 treasures must be collected, and Wario's coin total must amount to the maximum of 99,999. If these requirements are fulfilled, the Genie will create a small planet in outer space, with Wario's face on it. After the credits finish, the words "PERFECT GAME!" will appear under the planet.
+Additionally, the appearance of the pipe on the file section screen changes after all 40 levels are completed, although the text will only ever display 39 due to the completion save putting the player before completing level 40. The pipe will flash, and the shadow on the pipe will appear to move.
+
+In Virtual Boy Wario Land, the game's "hard" mode may be unlocked by beating the regular mode after finding all ten treasures. In "hard" mode, two fairies replace the usual bat on the file select screen, the game's levels contain more spike obstacles, and the appearance of the treasures change. Additionally, the Demon Head possesses an extra attack, which involves dropping spiked boulders onto Wario. After the credits upon completing "hard" mode, a message will appear as follows: "YOU ARE A MASTER GAMER! YOU ROCK!!"
+
+As with many other installments of the Wario Land series, the game's ending depends on whether the player has fulfilled certain conditions. The "perfect ending" involves Wario flying home from the Awazon river basin on a flying carpet, with a bag of coins and a woman dressed like a Playboy Bunny. This ending may be seen after completing either mode with all ten treasures, and a completion time of under two hours.
+
+100% completion in Wario Land II is achieved by collecting all 50 treasures, completing the Picture Panel and viewing all of the game's 5 endings. Achieving this unlocks the minigame Flagman D-D and the bonus level Steal the Syrup's treasure!!.
+
+On an individual game file, Wario Land 4 may be fully completed by collecting all sixteen CDs, and gaining more than 10,000 points in all of the game's eighteen levels, which will display a gold crown upon selecting a level. This will permanently unlock the Karaoke track in the game's sound room (it may also be temporarily unlocked, by highlighting "Exit" and pressing , , ,  and  together). The appearance of Princess Shokora also depends on how many treasure chests remain after defeating the Golden Diva. All twelve treasure chests must be collected by Wario, for Princess Shokora's true form to be seen in the closing sequence.
+Completing the game's "Normal" mode will unlock an alternate file select background, showing gold-colored bricks instead of the purple blocks with Wario's face. Completing the game's "Hard" mode will allow the player to choose a new "S-Hard" mode when beginning a new save file. During the closing sequence of S-Hard mode, Wario will drive a hovercar (rather than his Wario Car and a truck in "Normal" and "Hard" modes respectively). The game's final flashback sequence will also be displayed in the sky after the credits have finished in S-Hard mode, showing Wario in a city background with two attractive girls by his side.
+
+The player must unlock every microgame and fill the requirements to unlock some minigames in WarioWare, Inc.: Mega Microgame$!, and the complete menu displays when the player unlock all minigames.
+
+Unlocking all microgames in WarioWare: Twisted! and completing them in the Spindex will give the player a congratulatory message and unlock the WarioWare: Twisted! souvenir.
+
+Getting a Gold Crown in WarioWare: Touched! (which involves reaching the target score of every microgame in a character's microgame album) for every character will unlock the Whistle a Tune souvenir. A rose icon appears next to the "Toy Room 1" and "Toy Room 2" headers when all Souvenirs are unlocked.
+
+A congratulatory message will appear on the town's bulletin board when the player unlocks all microgames in WarioWare: Smooth Moves. Another message signed by Mona will be posted if the player unlocks all poses.
+
+Earning a gold trophy in all 150cc cups in Mario Kart 64 unlocks an alternate title screen depicting Mario, Luigi, Yoshi, Peach, and Donkey Kong in what appears to be Choco Mountain or Kalimari Desert during a sunset.
+
+When players earn gold trophies for all normal cups in Mario Kart: Super Circuit, the players earn a sunset-themed title screen. When players earn a triple star rank for all normal cups, the players then earn a night-themed title screen.
+
+When players earn Gold trophies for all cups in all race classes in Mario Kart: Double Dash!!, they unlock a second title screen. It also unlocks a secondary ending photo if players beat Special Cup in 150cc/Mirror Mode or All-Cup Tour.
+
+Completing all cups with a gold trophy in Mario Kart DS unlocks an alternate title screen. It also unlocks a different credits sequence that features the player's playable character and the cast of racers that raced with the player, as well as having an alternate ending photo featuring all playable characters. Gaining the highest possible rank of three stars in all cups on Grand Prix will display three stars next to the player's name during online play.
+
+If players complete every cup with a gold trophy in Mario Kart Wii, it unlocks several new alternate title screens featuring Luigi, Princess Peach, Bowser, and two Mario ones. It also unlocks a new ending photo featuring all playable characters. Obtaining the highest possible rank of three stars in all cups on Grand Prix will display three stars next to the player's name during online play.
+
+After completing all of the cups with a gold trophy in Mario Kart 7, alternate character screens are shown during the title. Getting the highest possible rank of three stars in all cups on Grand Prix will display three stars next to the player's name during online play.
+
+In Mario Kart 8, earning gold in all non-DLC cups gives out alternate character screens for single-player and multiplayer modes. It also unlocks an alternate credits roll.
+
+In the Mario vs. Donkey Kong games, full completion is achieved by beating the highest goal score in every level. In games that feature save files (which include the original game up to Mario vs. Donkey Kong: Mini-Land Mayhem!), completed save files are signified with a marker such as the word "CLEAR" or a gold star.
+
+Level B-24, the final level of Mario vs. Donkey Kong: Tipping Stars, requires earning a gold trophy in all previous 87 levels to unlock it. Upon completing this level with a gold trophy as well, the player receives a congratulatory message on a window showing all Mini toys dancing.
+
+The conditions for getting a full completion in the Nintendo Switch remake of Mario vs. Donkey Kong have changed slightly due to the removal of the score system. Completing all the levels (excluding those in the Expert sets) will replace the name of the currently uncleared level on the savefile with the text "All Cleared!". Completing all the levels (excluding those in the Expert sets) with a gold star ("Perfect!") marks the save file with a silver medal. A full completion marks the savefile with a gold medal, and requires that the player must earn a gold star ("Perfect!") on all levels, including those in the Expert sets and excluding Vs. Donkey Kong and Vs. Donkey Kong Plus.
+There are a total of 136 stars that can be gained from all the levels. This requires collecting all the presents in numbered levels, leading all the Mini-Marios to the toy box in "mm" levels, and beating all the boss battles against Donkey Kong without taking damage.
+Completing Time Attack mode for all levels (getting a gold medal with a clock insignia on every level) is not required, but can be considered an informal goal after completing the entire game.
+
+Beyond the main storyline of Paper Mario: Sticker Star, the player may choose to fulfill the achievements to unroll each of the eight Super Flags where the Sticker Fest was held, in Decalburg. The different achievements are:
+
+Each completed Super Flag will be carried by a Toad at the ending of the game's credits parade.
+Additionally, finding all five locations of Luigi will allow him to lead the parade in the credits, replacing the Green Toad.
+
+In addition to the main storyline of Paper Mario: Color Splash, the player may choose to fulfill six special achievements to unroll the six Super Flags in Port Prisma. These achievements are:
+
+By doing this, the flags will be displayed in the credits parade, and a short extra scene will play with Huey after the credits finish.
+Finding all locations of Luigi will make him appear driving his kart in the credits parade, in place of a Toad with a banner showing the number of locations found.
+Two banners can also be unrolled in the pirate ship in Violet Passage, which require the player to get the maximum amount of coins and points in the pirate ship minigames, respectively.
+An optional sidequest is to help the Port Prisma barista by letting him swap places with Barista Toad.
+In Port Prisma, Mario can help reunite Piper's friends by finding them in different places. Once they are all found, they reappear playing together at the entrance to the Crimson Tower.
+
+Upon completing Paper Mario: The Origami King, the player earns a silver star on the upper-left corner of their save file. To achieve 100% completion, Mario must have filled all Not-Bottomless Holes, found all hidden Toads, have hit all ? Blocks, and must have collected all Collectible Treasures. After beating the game under those requirements, a scene is added to the ending sequence, in which the Origami Craftsman places origami figures of King Olly and Olivia on his original Origami Castle model. The silver star on the player's file also changes into a gold one. There are also additional commemorations for completing the game without getting any Game Overs or without equipping any battle accessories. A gold heart is added to the save file representing the no Game Overs achievement, and a gold Mario glove representing the no battle accessories achievement.
+
+In Paper Mario: The Thousand-Year Door for the Nintendo Switch, the player is awarded trophy items as rewards for completing sections of the Journal:
+
+Upon obtaining all three trophies, Mario receives a congratulatory email from the development team, as well as the cosmetic Gold Medal badge. It has the effect of visually turning him gold, and the effect will stack with the L Emblem and W Emblem.
+
+It is possible to obtain three golden Captain Toad stamps in the books representing each episode of the game, which are earned by completing every level, collecting every Super Gem, and completing every bonus objective, respectively.
+Additionally, collecting every Pixel Toad in an episode will reward the player with a golden Pixel Toad stamp.
+If all of the challenge times are beaten, the stamps will begin to sparkle.
+
+When players beat the Hard tournament of a sport in Mario Sports Mix, the color of the corresponding sports equipment on the main menu becomes gold. If players then beat Behemoth King in Sports Mix mode, the main menu's background becomes red-colored.
+
+Upon completing the game, percentages are measured for each of the following:
+
+If the player receives an Excellent for all of these factors, which requires at least 85% for each one, a slightly different ending screen will be shown.
+
+Obtaining 100% completion on a save file in Mario + Rabbids Sparks of Hope requires the following criteria:
+
+Upon meeting the criteria, the player receives an e-mail in the sub-menu titled "Message from the Team" and reads as follows:
+
+Travel humbles, for the galaxy is infinite, as does the number of people who make it hum, of which no two people are exactly alike. For this, we are all richer.Wherever your journey through life leads you, we are humbled to have taken some small part of it with you.
+
+Obtaining 100% completion on a save file for The Tower of Doooom DLC requires the following criteria:
+
+Obtaining 100% completion on a save file for The Last Spark Hunter DLC requires the following criteria:
+
+Obtaining 100% completion on a save file for the Rayman in the Phantom Show DLC requires the following criteria:
+
+Upon meeting the criteria, the player receives an e-mail in the sub-menu titled "Message from the Team" and reads as follows:
+
+The bleakest dark yields to the faintest light; a light that exists within each of us. You are not alone, we are a multitude, linked together by a thin red thread that sews together our hearts and souls. Tighten the knot and we will be together forever, lighting the way.
+
+In Super Mario RPG for the Nintendo Switch, the player earns a yellow star on their save file after clearing the game. After winning every post-game rematch for every boss and defeating Smithy again, these bosses appear in the game's epilogue scenes, including Belome, Chef Torte and his apprentice, Jagger, Jinx, Culex in his 2D form, and Punchinello.
+The player also earns medals after having every Monster List entry completed, as well as completing records for the minigames, found in the Play Report. There is no reward for obtaining every medal, however.

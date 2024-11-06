@@ -1,0 +1,6 @@
+Assist parts (or simply Parts as written on its clapperboard icon) are a mechanic in Super Mario Maker 2 allowing players to place certain blocks and power-ups in the levels of Story Mode to ease the completion. Assist parts are mentioned by Luigi after the player loses two lives in a level and after the Game Over screen, after which the player can press  in the middle of a level to access them. Any levels the player completes using assist parts will be marked with a Luigi flag icon.
+
+The following power-ups or blocks may be used:
+
+Like in the normal level editor, Mr. Eraser can be used to clear any parts placed by the player. However, once the player resumes normal gameplay, the parts they just placed cannot be manually erased. If a part moves offscreen or if the area is reloaded via a Warp Door, Pipe or Warp Box, that part will despawn.
+A part may not be placed on any tile that overlaps with Mario, an enemy, or any solid object.

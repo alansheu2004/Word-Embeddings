@@ -1,0 +1,4 @@
+Fiery Jinx is an attack that Vivian learns in Paper Mario: The Thousand-Year Door upon reaching Super Rank. This attack costs 6 FP and hits all enemies for piercing fire damage, and inflicts Burn for three turns. 
+For the Action Command, the player must press the correct buttons (, ,  or ) as indicated, and the amount of successful inputs will dictate the damage dealt, doing up to 5 damage without buffs. Considering how this move has the fire attribute, enemies strong against fire such as Clefts will be immune to the attack, whereas enemies weak to fire such as Ice Puffs will take extra damage.
+As Vivian waves her finger to set the enemies on fire, the player can input  to perform a stylish move.
+During the Chapter 2 battle against the Shadow Sirens, Vivian will use Fiery Jinx if she is at 4HP or below, and Beldam is alive. However this version of the move only deals 1 damage, and does not inflict burn.

@@ -1,0 +1,8 @@
+Mario Slot is one of Luigi's minigames in Super Mario 64 DS. It is a single-player minigame. 
+
+The minigame consists of three spinning wheels (slots). Before the wheels are spun, the slot machine takes one of the player's coins. To play, the player must touch each of the three wheels to stop it. If each slot shows the same item, the player wins and gains coins. If any Superstars are shown, the player gains coins. The player can earn extra coins if they get one Superstar and two matching items.
+These are the possible winning outcomes and the coins won:
+
+Once the player loses all their coins, the minigame ends.
+
+Touch the spinning slots to stop them. Get 3 items in a row to earn coins! The Superstar is wild.

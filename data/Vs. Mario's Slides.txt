@@ -1,0 +1,5 @@
+Vs. Mario's Slides is a 1-on-1 minigame featured in New Super Mario Bros. It is exclusive to the Vs. Battle multiplayer mode. Since it is in the 1-on-1 category, it can be played only when two systems are connected.
+
+The game can be set to one of three difficulties before it is played: Easy, Normal, or Difficult. Like with the normal Mario's Slides, the players must control the path Mario takes by drawing paths leading to the Star with the stylus while he heads back and forth between the two. Whenever Mario reaches a Star, he heads in the opposite direction, toward the other player's Touch Screen. The process repeats itself indefinitely until Mario lands in a Piranha Plant; the player whose Touch Screen has Mario on it when this occurs is the loser.
+
+Guide Mario down the slides to the Star. Draw lines on the Touch Screen to create new routes for him. When he hits a Star, Mario will move toward your opponent. Hit a Piranha Plant, and you lose!

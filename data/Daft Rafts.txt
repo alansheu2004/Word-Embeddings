@@ -1,0 +1,8 @@
+Daft Rafts is a 4-Player minigame in Mario Party 6.
+
+The players are standing on a bridge as the river flows beneath them, with the platforms on it. The bridge then collapses, and the players fall onto the beginning platform.
+
+The object of the minigame is to jump onto the many different rafts to avoid falling. If a player falls in the water or over the waterfall or touches an enemy, they are eliminated. Players who can make it to the last raft, being pulled by a Koopa Troopa in an aquatic vehicle, are declared winners. The last raft appears early if only one player remains. If all the players get eliminated, the minigame ends in a tie.
+The only change between day and night is the enemies that appear on the rafts. During the day, Spinies are the obstacles, and at night, Podoboos are.
+
+The final platform comes to a stop at the top of the waterfall, with winning players' animations playing as the Koopa drives away.

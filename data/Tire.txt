@@ -1,0 +1,8 @@
+Tires (also known as wheels and written as tyres in British English versions) are vehicle parts that appear in the Mario Kart series. In Mario Kart 7, Mario Kart 8, and Mario Kart 8 Deluxe, the player can select tires to use for their vehicle, and this alters the stats of the vehicle. Additionally, stacks of tires unattached to vehicles appear as obstacles in some courses in Mario Kart 8 and Mario Kart 8 Deluxe.
+
+Tire customization first appears in Mario Kart 7. Which tires are selected affects the stats of the kart.
+
+Tire customization returns in Mario Kart 8 and Mario Kart 8 Deluxe. The stats have not changed much from the previous game. In anti-gravity, tires visibly turn on their side with a blue glow, and their speed and handling stats are altered. In addition to the new tires, every tire from Mario Kart 7 excluding Mushroom and Red Monster returns in these games. Tires also appear as minor obstacles on GBA Mario Circuit, 3DS Toad Circuit, and GCN Waluigi Stadium, where they function similarly to traffic cones.
+
+In Mario Kart Tour, tires are not customizable and have no effect on stats. However, the tires of a kart are not a part of each kart's model but instead their own models loaded for each specific kart. Additionally, every tire from Mario Kart 7 is used on at least one kart, and there is an unused StdR_Red tire in the game's files.
+The name shown under each tire render in the following table is its internal file name, while the name shown on the left side is the tire's name as it was known in previous games (if linked) or otherwise conjecturally derived from its internal name (if unlinked).

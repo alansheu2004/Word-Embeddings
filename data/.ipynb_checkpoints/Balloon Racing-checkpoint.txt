@@ -1,0 +1,4 @@
+Balloon Racing is a one-to-four-player Action minigame in New Super Mario Bros. 
+
+The minigame takes place at the front of Peach's Castle. The player must blow into the Mic to make Yoshi float with his balloons and get on the airship. An obstacle there is many Fly Guys moving horizontally to stop Yoshi's ascension. If Yoshi is hit by a Fly Guy, one of his balloons pops. The minigame ends if time runs out, both balloons are popped, or Yoshi falls below the bottom screen. The goal of the minigame is to reach the top in the shortest time possible.
+In multiplayer, each player has a different-colored Yoshi, and the goal is to reach the top before the player's opponents. Losing all balloons results in elimination from the contest. If no one gets to the top, whoever is closest wins. If everyone's balloons pop, the minigame ends in a draw. This minigame has adjustable difficulty. The harder it is, the more Fly Guys there are.

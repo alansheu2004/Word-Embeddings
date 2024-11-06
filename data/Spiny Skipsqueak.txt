@@ -1,0 +1,5 @@
+Spiny Skipsqueaks are a variant of Skipsqueak that first appear in Super Mario 3D World and reappear in its Nintendo Switch port Super Mario 3D World + Bowser's Fury.
+
+In Super Mario 3D World and its Nintendo Switch port Super Mario 3D World + Bowser's Fury, Spiny Skipsqueaks are stationary variants of Skipsqueaks that sometimes jog in a set path. As its name indicates, it features spikes on its back, thus it can be defeated by any attack except a jump. Spiny Skipsqueaks can also make a high hop. Spiny Skipsqueaks are found usually in groups of two or more. Spiny Skipsqueaks make their first appearance in the level Really Rolling Hills. Unlike their non-spiky counterparts, they do not appear in Bowser's Fury.
+
+Spiny Skipsqueaks appear as placeable enemies in Super Mario Maker 2 in the Super Mario 3D World style. Like regular Skipsqueaks, it jumps whenever Mario jumps, and if it is pushed away from its starting point, such as by a Thwomp or Track Block, it will run back towards its starting point and even Triple Jump over obstacles to get there. If it cannot pass an obstacle, it will give up and look tired, then reset its movement pattern from its new location.

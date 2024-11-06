@@ -1,0 +1,36 @@
+Super Mario Advance is a remake of Super Mario Bros. 2 developed by Nintendo Research & Development 2 as a launch title for the Game Boy Advance, released in Japan in March 2001 and in North America and Europe in June of the same year. It is based on the Super Mario All-Stars remaster, and also contains a remake of the original Mario Bros. arcade game. Super Mario Advance includes many new features, gameplay mechanic changes, graphical and audio enhancements, and stylistic and aesthetic alterations from the All-Stars edition, with the most significant changes being the addition of the enemy Robirdo, a robotic Birdo, replacing Mouser as the boss of World 3; the addition of the "Yoshi Challenge," in which players may revisit stages to search for Yoshi Eggs; a new point-scoring system; multiple hit combos; enlarged sprites; and digital voice acting.
+The game was rereleased on the Wii U's Virtual Console in Japan on July 16, 2014; in North America on November 6 of the same year; and in Europe and Australia in March 2016. It was later rereleased on the Nintendo Switch's Game Boy Advance - Nintendo Switch Online service in May 2023.
+
+The story is the same as in the original release of Super Mario Bros. 2, written in the North American manual as follows:
+
+One night, Mario had a mysterious dream. He dreamed he was climbing a long stairway that led up and up to a closed door. When he reached the top and opened the door, he found himself gazing out at a world he had never seen, stretching out to the horizon. Then he heard a voice say, “This is Subcon, the land of dreams. The evil toad, Wart, has used his magic to lay a curse upon the land. Please defeat Wart and free us from his spell. Oh - and remember that Wart hates vegetables. Hurry! We need your help!” And then a bolt of lightning suddenly split the sky, and Mario woke up to find himself on the floor. He had fallen out of bed!
+A few days later, Mario and his friends hiked to some nearby mountains for a picnic. Upon reaching their picnic spot, they looked around and found a small cave. When they entered the cave, they were amazed to discover the land Mario had seen in his dream stretching out before them.
+
+The developers reduced the display resolution to fit better on the GBA screen, and brightened most of the original color palettes to combat the handheld's lack of a backlight. In the process, Subspace lost its Super Mario All-Stars dark blue tint, and is now only slightly darker than Subcon. Additionally, many sprites are stretched, shrunk, recolored, and rotated, due to the GBA's technical powers.
+
+Along with the character and enemy sprites, many of the scenes and background have also been updated, altered, or modified for the GBA's hardware. While some have been small graphical updates, others added/removed major things to/from the game.
+
+Princess Toadstool is now referred to as "Peach" (her original Japanese name and the current universal standard, as introduced to Western territories in Yoshi's Safari and re-introduced and popularized by Super Mario 64 onwards) as opposed to just simply "Princess". Toad is now referred to as "Kinopio", his original Japanese name in that country's version. The Ostro/Birdo mix-up is corrected in the cast list, in addition to misspellings in the international version.
+Additionally, some text on the screens has also been changed.
+
+Mario, Luigi, Toad, and Peach now start the game and each life in their Small forms with only one hit point of the current maximum remaining, and their Small forms persist between levels (as in the other 2D Super Mario titles), whereas in the original and All-Stars remaster, they always start each life and level in their Super forms with full health regardless of whether they were in their Small or Super forms upon completion of the previous level. Also, a "Try Again" feature was added to the Pause Screen that allows the player to restart levels from the beginning in Small form.
+The controls of the characters have had slight changes made.
+
+The levels have had many updates to their designs, and many levels have had their objects relocated. Some features and items have been added or changed from the original, while others have had their functions slightly changed.
+
+Some of the enemies are easier to beat compared to the original NES version.
+
+The entire soundtrack has its quality downgraded for the GBA's sound chip, and many of the tracks in the game have been altered or replaced to fit on the GBA.
+
+Digital voice acting is added for the four playable characters (who are given voice samples for such situations as being chosen, picking up items like Mushrooms or Crystal Balls, gaining an extra life, clearing a level, and losing a life) and the bosses, who are given lines of dialogue for when they begin their respective battles and when they are defeated. An announcer also shouts "Choose a player!" at the character select screen.
+Some of the game's sound effects have been altered to fit the GBA's hardware.
+
+The game features a Mario Bros. remake also present in the other Advance games, as well as Mario & Luigi: Superstar Saga. The remake features a "Classic Mode" based on the original game's co-op mode, and a "Battle Mode" similar to that used in the All-Stars remake of Super Mario Bros. 3. Changes to the original game come in the form of enhanced graphics, the addition of music where it was originally absent, an extra POW Block in every stage, the addition of the Power Squat Jump, and the replacement of Shellcreepers with Spinies.
+
+Super Mario Advance was developed due to the success of Super Mario Bros. Deluxe for the Game Boy Color in 1999, and had the tentative names Super Mario USA: Advance for the Japanese market and Super Mario Bros. Deluxe 2 or Super Mario Bros. 2 Deluxe for the international market. Despite the use of most graphical and audio assets from the All-Stars remaster, the game was coded from scratch; new sprites and audio cues were created because their existing counterparts were "not good enough". The development team purposefully decided to add "large" versions of enemies and increase the number of enemies on-screen as a means of highlighting the Game Boy Advance's processing power. The Mario Bros. remake was initially a separate project designed to experiment with four players, but it was eventually decided to include it as an extra.
+
+Super Mario Advance received generally positive reviews, garnering an aggregate score of 84% on Metacritic. When GameSpot reviewed the game, it thought that Super Mario Bros. 3 or Super Mario World would have been a better choice for a launch game considering their respective popularity; both titles were eventually also remade as part of the Super Mario Advance series. Conversely, IGN praised the choice, calling it "one of the most polished and creative platformers of the era".
+
+The game includes director Toshiaki Suzuki, producer Masayuki Uemura, and assistant director Hiroaki Sakagami. The team was supervised by Takashi Tezuka, Toshihiko Nakago, and Kensuke Tanabe, respectively the motion designer, lead programmer, and director of the original NES game.
+
+In World 6-1, if the player navigates the Pokey off of the ledge, it will float in midair, with no change in behavior. The player can navigate the Pokey back onto the ledge.

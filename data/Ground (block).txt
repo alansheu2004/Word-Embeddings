@@ -1,0 +1,8 @@
+Ground blocks are solid, indestructible blocks that appear in the Super Mario Maker series and the Mario vs. Donkey Kong series.
+
+Ground blocks in the Super Mario Maker series appear in every theme. When placed in the editor, Ground connects with other Ground blocks, and can sometimes appear with background elements on top of it, such as horsehair plants and flowers. In certain level themes, one tile-wide ground blocks can take on the appearance of other objects, such as coral or dead bushes. In Super Mario Maker 2, Ground received new functionality, being able to be connected with Slopes and the Ground tiles at the start and at the end of the course, which previously could not connect in Super Mario Maker and Super Mario Maker for Nintendo 3DS, and getting its own block limit of 4,000.
+
+In Super Mario Bros., despite it being impossible to reach it from below, Ground tiles in Ground and Underground themes act like Brick Blocks. They can be destroyed with a Super Mushroom or a Fire Flower from below, and change their texture to an Empty Block when hit by Small Mario. Despite looking like Empty Blocks, they still function as Brick Blocks.
+In New Super Mario Bros. U, the Mecha Hand in Boarding the Airship can destroy Ground blocks when it uses its fist attack.
+
+Ground in the Mario vs. Donkey Kong series also acts as an indestructible solid block with no special functionality.

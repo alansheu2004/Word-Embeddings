@@ -1,0 +1,9 @@
+Blooper Scooper is a 4-Player minigame in Mario Party 6. Its name is a pun on "pooper-scooper."
+This minigame also appears as a page in the Miracle Book, named "Blooper, Ahoy." Activating the page reveals Wario, Daisy, and Toad hiding behind the barrels and crates as the Blooper tries to grab them.
+There are only aesthetic changes between day and night.
+
+The players are riding on a ship in the ocean when it is suddenly caught in a whirlpool. A Giant Blooper then destroys the ship; the two halves are sent on either side of the vortex, and the players are caught in it.
+
+The players must swim to avoid being dragged under the surface by the Giant Blooper at the center of a whirlpool. The Blooper sometimes puts its tentacles above water to serve as another obstacle. If a player touches a tentacle, a barrel, or a crate, the player is stunned while drifting towards the Blooper. If a player gets too close to the Blooper, it grabs the player and pulls them underwater, eliminating that competitor. The last player standing wins. If two or more players outlast the time limit, they win, though if no one does so, the minigame ends in a tie.
+
+The Blooper sinks back underwater, and the whirlpool disappears. The winner(s) then swim(s) to the center of the area and wave(s) at the screen.

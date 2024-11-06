@@ -1,0 +1,8 @@
+Treasure Trawlers is a 4-Player minigame in Mario Party 6. The only change between day and night is that it rains at night.
+This minigame is featured on a page of the Miracle Book called "It Came from the Deep." Daisy finds a treasure chest while Luigi finds the Blooper from Blooper Scooper.
+
+The players drive their aquatic vehicles up to the center of the arena. They then face the screen.
+
+Each character is in some kind of construction crane boat floating on a pool of water. Each player must keep moving around until their controller rumbles (or a "!" appears over their character's head if the Rumble Feature is turned off), then they should press  to let down their crane. If the crane pulls up a treasure chest, the player earns one point. If it pulls up a golden treasure chest, it gives them three points. If a Bob-omb is pulled up instead, the player is stunned temporarily. If a player pulls up a treasure chest after time runs out, they still receive the number of points that chest is worth. The player with the most points at the end of the minigame wins.
+
+The players slightly face the screen from where they are. The crane on the winner's boat then moves up and down.

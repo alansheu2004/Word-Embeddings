@@ -1,0 +1,7 @@
+Full Tilt is a Duel minigame in Mario Party 6. The name comes from an idiomatic phrase for going quickly.
+
+The camera focuses on the goal. It then moves to the first player, showing the entire course. The screen splits into two to show the second player.
+
+The objective of the game is to be the first to get to the other side of a wide hole by carefully walking across a tilting bridge. Players must be careful not to fall, or they lose valuable time as a Lakitu retrieves them. There are a few shortcuts that players can utilize to reach the end faster. The middle of the bridge acts as a checkpoint; if a player falls off afterward, the Lakitu will carry them back to this point. If five minutes pass, the minigame ends in a tie.
+
+The winner does their winning animation at the goal, while the loser does their losing animation. If a tie occurs, both players remain where they are and perform their losing poses. If the loser(s) falls off just before the minigame ends, they will not be carried back by Lakitu and will remain unseen.

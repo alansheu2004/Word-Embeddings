@@ -1,0 +1,13 @@
+Birds are flying corvid Nitpickers that make their debut in the Donkey Kong Jr. arcade game. In most versions, they sport thick beaks and flap their wings in a brisk pace while flying.
+
+Birds, also referred to as Nitpickers, make their first appearance in the Chain Scene of Donkey Kong Jr. Like the Nitpickers in the Jump Board Scene, these Birds similarly fly horizontally across the screen, descending progressively as they meet its margins. They flee off-screen after performing four such flights. Unlike those Nitpickers, they do not bombard Donkey Kong Jr. with eggs, and are designed to look more like ravens in most versions, given their dark coloration and chubby structure. They can be defeated the same way nonetheless, as falling fruit can put an end to them.
+In the Atari 2600 port, a single bird flies left to right at the bottom of the stage. In the Intellivision port, they fly off the left or right side of the screen rather than doing their zigzag routine.
+
+A lone Bird (known as a "nitpicker") appears in the +-×÷ Exercise mode of Donkey Kong Jr. Math. It hovers over the chains, showing which position Donkey Kong Jr. should fill. It will also show where Donkey Kong Jr. made his mistakes.
+
+A Bird Nest can be seen in the Game Boy version of Donkey Kong, in Stage 9-4 of the Tower, a boss stage that resembles the Chain Scene from Donkey Kong Jr. It spawns two Birds on-screen at a time. After rising slowly from their nest, Birds fly horizontally across the room, moving down a short distance and turning back upon meeting the room's limits. They perform three complete flights, and flee outside the map of the stage afterwards. Birds can not be practically defeated, as the stage they appear in presents no means of combat against them. They now attempt to drop eggs on Mario if they fly above him. Unless they are avoided, or deflected with a handstand, these eggs can plummet down on the character and cause him to lose a life.
+Birds are identical in behavior to Hawks and Kaibādo, which are other successors of Nitpickers.
+
+Birds are obstacles in the Donkey Kong Jr. microgame of WarioWare Gold. They appear on the third difficulty level, flying on a straight line from left to right, across the ropes.
+
+In the Family BASIC accessory to the Family Computer, it is one of three programmable bird characters. It also makes a cameo on the Message Board.

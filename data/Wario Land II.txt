@@ -1,0 +1,95 @@
+Wario Land II is a game by Nintendo that was released in Western regions for the Game Boy in March 1998. This is the second installment of the Wario Land series (third counting Virtual Boy Wario Land). It is a 2D platformer starring Wario, the greedy treasure hunter, who was also the protagonist of the series' first game Wario Land: Super Mario Land 3.
+While the game was originally released as a Super Game Boy-enhanced title outside of Japan, a version adding Game Boy Color support was released in Japan seven months later as one of the October 1998 launch titles, featuring colored sprites and backgrounds. While the Game Boy Color version of this game is backwards compatible with the Game Boy system, its save is incompatible with the Game Boy if the game is saved on the Game Boy Color and vice-versa, requiring deleting the original save in order to save it on the other system. This version came out later in Western regions as well. It was also rereleased for the Nintendo 3DS's Virtual Console in 2012.
+A successor to the game, Wario Land 3, which adapts most of Wario Land II's gameplay mechanics, was released in 2000.
+
+Wario is taking a nap in his castle, as three shadowy figures approach it from outside. They are Pirate Gooms, loyal minions of Captain Syrup and members of the Black Sugar Gang. The pirates infiltrate the building and steal Wario's treasures, which he collected during his earlier adventures. To distract Wario and prevent him from chasing them, the pirates cause havoc in the castle by turning on a giant faucet, abandoning a vicious snake in his cellar and installing an oversized alarm clock. After this, the pirates escape and leave Wario in the mess they caused. Wario eventually wakes up by the alarm clock's commotion and sets off to pursue the thieves, but not before rectifying the state of things in his home.
+During his pursuit of the pirates, Wario learns that the fleeing bandits have scared his pet hen away, so he ditches his quest for a brief moment to rescue his beloved pet. He resumes the pursuit after the hen is safe again. Wario manages to get to the pirate's ship before they can set off. He drops the anchor, so the ship is forced to halt, but is then stopped by the ship guard Bobo, who delays his progress so the pirates can escape via a hot-air balloon. Wario chases them through the overgrown jungle of Maze Woods and a city with an unknown name.
+
+Wario eventually arrives at Syrup Castle, the hideout of the mischievous pirate gang. Horrified that the pirates managed to return to their fortress, he continues his pursuit and breaks in the building. After battling many of the pirate grunts, including a quartet of D.D.s, Wario confronts the pirate leader herself in combat. After defeating Captain Syrup and demolishing her aircraft, Wario blasts the pirates out of their fortress, reclaims his treasures and returns home to resume his nap.
+The game also features alternate pathways and alternate endings, but they generally end with Wario safely back at his castle and his treasures returned. Eventually in the true final chapter (which contains a Time Attack feature), Wario returns to Syrup Castle and proceeds to a mountain range somewhere near the building. There he discovers a secret cave in which the pirates store their treasures. In a final raid, Wario overcomes the difficulties in the pirate cave and plunders Syrup's riches. He then returns home for the final time, but not without the giant spear man following him closely. The pirate's motivation of doing so is unclear.
+
+Wario Land II is a 2D platforming game, like its predecessor Wario Land: Super Mario Land 3. It is divided into five worlds (called Chapters), which each are divided into five respective stages (called Stories). The chapters are accessed one after another, so when the player completes a level, they will be instantly transported to the next level. However, after completing the game for the first time, the player will receive a Treasure Map which allows them to choose the level they visit at will.
+The game is notable for its branching storyline. Throughout the levels, the player can discover many secret exits which lead to five additional Chapters. Five different endings can be unlocked in this way, not counting the real ending that is accessed after completing the unlockable Time Attack level.
+
+Wario's primary abilities remain the same as in the previous game. The player can walk, crouch, and enter doors with the , jump using the  Button and perform Wario's signature Dash Attack by pressing the  Button. If the  is pressed up while jumping, Wario will jump slightly higher. The Player can use this technique while jumping on an enemy to jump even higher. When standing on a slope, pressing down will cause Wario to perform a rolling attack, that can smash blocks and defeat enemies. Unlike earlier, Wario can now use a Ground Pound to create shockwaves even without using a Viking helmet. This can be used to reverse enemies' movement, as well as to defeat them. When Wario stuns an enemy by jumping on it, he can pick up the motionless foe and carry it around. Wario's speed will decrease while he is carrying a heavy foe (e.g. a Grunt, or a D.D.). A carried foe can be used to defeat other foes by throwing it on them. The player can now also power up Wario's throw by pressing and holding the  Button. This will increase Wario's throwing distance and also instantly defeats the tossed enemy if it hits an obstacle.
+
+One of the most prominent features in Wario Land II is Wario's immunity against death. Being hit by an enemy only causes him to be briefly knocked backwards and lose some coins. In addition, some enemies cause Wario to assume new forms which the player can use to progress through the level. While eleven conditions (later renamed "reactions") can be used to gain advantages, they may sometimes act as a hindrance, depending on the situation. Most conditions are curable if Wario touches a body of water, but some only wear off after a certain amount of time has passed.
+
+Like in every installment of the Wario Land series, the player can obtain various optional treasures during Wario's adventure. The kinds of treasure that can be found in the game are composed of different artifacts, seemingly useless junk, strange oddities, and even references to other Nintendo franchises, such as The Legend of Zelda and Metroid. To obtain a treasure, a coin-consuming mini-game must be completed. There are two different categories of treasures in the game, each having 50 parts, making 100 obtainable objects in total. Once all the treasures are collected, the player will gain access to the game's final stage, as well as to a remake of the Game & Watch mini-game Flagman, titled Flagman D-D.
+
+Treasures are items that are hidden somewhere in the game's levels. Each story has one of these, making a total of fifty treasures in the game. The treasure can be obtained by playing a mini-game behind the respective treasure door.
+
+Before the matching game can be played, the player has to pay a certain amount of coins. The price for one try depends on the difficulty mode that is chosen at the beginning of the game, so the amount of necessary coins varies between 50, 100, and 200 coins. After the preparations are set, a lock will float down from above and attach itself to the treasure chest. The lock shows a picture of an enemy. After that, eight panels will be displayed in the lower half of the screen. The panels will turn around for a short time, showing pictures of various enemies. Then after a moment (the duration of the moment depends on the earlier payment), the panels will turn around again. The player has to choose the panel that shows the same enemy as that on the chest's lock to open the chest and receive the treasure. If the player makes a wrong decision, the game is forfeit and it has to be played again (at the full price).
+
+The Picture Panel is a panel of 50 Picture Pieces that, when completed, forms a treasure map that reveals the secret entrance to the pirates' treasure cave. One piece of the Picture Panel is hidden at the end of each of the game's levels. The player has to play a mini-game to obtain the prize.
+
+The number-matching game is a mini-game mainly composed of nine panels, arranged in a 3x3 pattern, facing to the ground. When turned around, they form the shape of a digit, which can be any digit from zero to nine. The player has to guess which digit is displayed on the panels to obtain the treasure. By paying 50 coins, they can make one of the nine panels turn around. The respective panel will be chosen at random. When the player wishes, they can make a guess. If the guess is right, the chest will open and release a piece of the Picture Panel. If not, the mini-game is forfeited and the player will have to replay the whole level in order to get another chance.
+After beating the game for the first time, the mini-game will slightly change. The panels will now turn around automatically, while Wario's number of coins is steadily decreasing. This leaves the player with less time to think and makes the mini-game more fast-paced. The player can turn it back to the original before the game starts by hitting .
+
+Story 1: Turn off the alarm clock!
+Story 2: Turn off the giant faucet!
+Story 3: Let the water out!
+Story 4: Go down to the cellar
+Story 5: Defeat the giant snake
+
+Story 1: Return the hen to her nest
+Story 2: Escape from the woods!
+Story 3: Get in the Tea Cup
+Story 4: Drop the anchor!!
+Story 5: Defeat Bobo!!
+
+Story 1: Get to Maze Woods
+Story 2: Defeat the giant spear man
+Story 3: Through the thorny maze!!
+Story 4: Escape from Maze Woods
+Story 5: Defeat the giant bee!
+
+Story 1: Stop that train!
+Story 2: Up on the rooftop!!
+Story 3: Down in the cellar
+Story 4: Escape from the factory!
+Story 5: Anyone for B-ball?
+
+Story 1: Get to the Castle!!
+Story 2: Storm the castle!!
+Story 3: Defeat four ducks!
+Story 4: Find the hidden door!!
+Final Story: The Final Battle!!
+
+Story 1: To the castle!!
+Story 2: Storm the castle!!
+Story 3: Defeat the giant spear man
+Story 4: Go through the grand hall
+Final Story: Kick'em out!
+
+Story 1: Defeat the giant spear man
+Story 2: Avoid the rocks!
+Story 3: Stop that train!
+Story 4: Find the exit!!
+Story 5: Defeat the cave master!!
+
+Story 1: Escape from the Tea Cup!
+Story 2: Defeat the giant spear man
+Story 3: Inside the ruins!
+Story 4: Escape from the ruins!
+Final Story: Captured Syrup!
+
+Story 1: Defeat the giant spear man
+Story 2: Hold on to the owl
+Story 3: The way to the open door
+Story 4: Coming back is difficult
+Final Story: Capture the ghost!
+
+Story 1: Defeat the giant spear man
+Story 2: Into the factory!
+Story 3: Move through the water!
+Story 4: Don't shock the owl!
+Final Story: Awaiting Syrup!
+
+Time Attack: Steal the Syrup's treasure!!
+
+Wario Land II generally received good to excellent ratings, and many reviewers agree that it marked a milestone in the genre of 2D Platformers. IGN.com praised the game's innovative gameplay, its replayability, and its continuous gameplay, and even though it criticized Wario's inability of running out of lives, the game received a rating of 9.0. GameSpot mentioned its branching storyline, especially highlighted the updated graphics of the Game Boy Color version, and rewarded the game with an 8.9. Gaming Target criticizes the fact that Wario Land II provides the player only with one save slot and some other save-related issues, but also calls it an "essential game for every GBC owner". Gaming Target reviewed the game with a 9.0. Nintendojo.com rated the game 9.0 and called it "A unique and addictive platformer that no gamer should be without". Overall, Wario Land II received 88.04% on GameRankings.com.
+
+Both versions of Wario Land II were directed by Hosokawa Takehiko and produced by Izushi Takehiro. Yamanaka Masaru served as the main programmer on both versions as well.
+
+Wario Land II was originally scheduled to be released in 1997. A screenshotMedia:WL2 Beta 1.jpg released in that year depicts an unknown underground area with broken ledges not seen in the final game. In addition, the chain of the weight carried by the D-Bat was longer than any chain in the released version. Breakable jars were also found in the underground area, which is not the case for similar places in the final version. The amount of Wario's coins is also not seen in the screenshot.

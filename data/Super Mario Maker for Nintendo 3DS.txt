@@ -1,0 +1,44 @@
+Super Mario Maker for Nintendo 3DS is a Nintendo 3DS port of the 2015 Wii U game Super Mario Maker. Despite being a Nintendo 3DS game, it is only playable in 2D. It was initially released in December 2016.
+
+The game includes much of the content from the original Wii U release, with notable exceptions being its sample courses, 10 Mario Challenge, the Mystery Mushroom and Big Mushroom power-ups (and thus the Costume Mario and Big Mario forms), and searching for courses by code. It is also possible to play courses made in the Wii U version, though not every course is compatible with the 3DS version due to version differences, such as the removal of Mystery Mushrooms and Big Mushrooms from the 3DS version.
+Exclusive to Super Mario Maker for Nintendo 3DS and replacing the Wii U version's sample courses, the game includes 100 new courses designed by Nintendo pre-installed. The courses also include medal objectives, in which the player must fulfill certain criteria, such as collecting every coin in the level, to earn a medal. Players can also send unfinished courses to other players, by way of Local Play, and they can team up, or collaborate, on stages. Stages made in this way have a special icon marked next to it. The editing mode of the game also includes Yamamura's Lessons, an interactive tutorial guided by Mary O. and Yamamura. A similar feature named Yamamura's Dojo would later be included in Super Mario Maker 2.
+
+The Super Mario Challenge (called Challenge Courses in the Coursebot) is a challenge mode containing 100 levels that replaces 10 Mario Challenge from the Wii U version. It has Challenge Medals to collect that come in handy for accessing the 19th world. Each time one of the first 18 worlds is cleared for the first time, some course parts are unlocked.
+
+The 100 levels are divided up into 19 worlds. However, Princess Peach is taken to World 18. The player needs to go through 88 of the 100 levels to rescue Peach. After the player clears the final level, World 18-8, Peach thanks Mario for saving her and calls him her hero, after which the credits play, which depicts Mario walking down a Ground-themed level in the Super Mario Bros. style while the Time Limit counts down the credits duration.
+World 19 is unlocked in the Coursebot when Peach is rescued. The first level in World 19 is dependent on collecting 40 Challenge Medals. The actual mode has the player starting out with ten lives, but they can increase it to 100 lives. If the player receives a Game Over, the player has to restart from the beginning of the world they are on. Lives gained or lost in the Coursebot do not change the lives in the mode. After rescuing Peach, the player can choose to redo the whole challenge with altered text for completing World 19.
+The Super Mario Challenge mode also features a map that has 18 worlds. The number of levels start at four (Worlds 1-7, 10-12, 14-16), increases to six (Worlds 8 and 13), then increase to eight (Worlds 9, 17 and 18), and finally to twelve (hidden World 19) with the color of the world map background gradually changing as well (with the exception of World 19 which is exclusive to Coursebot).
+
+The are two types of Challenge Medals that can be collect through the playthrough or Coursebot for each level. Nintendo mentioned some of these challenges in trailers before the game came out. The first medal is the Goomba Challenge Medal. It is available on the first time play. The second harder medal is the Bowser Challenge Medal. This one does not show up until either it is completed or the Goomba Challenge Medal has been earned. The Bowser Challenge medal can be either a more advanced form, a total opposite, or a non-related challenge of the Goomba Challenge Medal. No Challenge Medals can be earned if the player loses a life after touching a Checkpoint Flag.
+
+Assist Items are items that could appear when the player loses five lives. The player can choose not to accept the item, but they would be asked again if they lose five more lives. If the item is activated, the Challenge Medal would become unobtainable. Assist Items can't be activated after the player touches the Checkpoint Flag, as it, too, removes the possibility of collecting Challenge Medals.
+
+After the player rescues Peach, the credits roll while Mario walks. There are coins at the top-left corner possibly meaning lives added. When Mario enters the castle, the score of all 88 levels is rallied up. After that, a "To be continued..." message appears due to the player needing to play World in order to unlock bonus content.
+
+</ref>
+
+Release date: December 2, 2016
+
+Release date: April 27, 2017
+
+A number of issues have been fixed to make for a pleasant playing experience.
+
+This update was released alongside the version 1.46 update for Super Mario Maker.
+
+Release date: November 7, 2017
+
+A number of issues have been fixed to make for a pleasant playing experience.
+
+This update was released alongside the version 1.47 update for Super Mario Maker.
+
+Release date: March 23, 2021
+
+Addressed an issue involving StreetPass functionality.
+
+NOTE: All names are conjectural unless otherwise specified.
+
+NOTE: This glitch only works on the New Super Mario Bros. U game style.
+For this glitch, the player must have a Bowser Jr. and a Koopa Clown Car, regardless of which type it is. When Bowser Jr. takes any form of damage or is far away from Mario, he hides into his shell and starts speeding towards Mario. If he falls into a Koopa Clown Car while inside his shell, his head will be jammed inside, giving somewhat of a headless appearance.
+There is also another way to experience this glitch by using a Spiny Shell on Mario. When Bowser Jr. hides into his shell, the player should wait until he jumps back out to attack. When he is in mid-air, Mario needs to run under him so he takes damage. When he jumps from the damage, Bowser Jr. is headless for a second before retreating into his shell. It is recommended to use Big Bowser Jr.
+
+In all game styles except New Super Mario Bros. U, if the player places a lit Bob-omb in the level's main area in the editor, it is colored red as it should be. However, if the player goes to the sub-area and places a lit Bob-omb, it is incorrectly colored gray in the editor. (The color is fixed when play-testing the course, or when the player taps an object while in editing mode.)

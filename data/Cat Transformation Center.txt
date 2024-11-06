@@ -1,0 +1,9 @@
+Cat Transformation Center, referred to as Bowser's Fury Online Activity: Cat Photo Booth App in the title of its web page, is an activity on the Play Nintendo website. It is an application that allows the user to decorate a picture using elements from Super Mario 3D World + Bowser's Fury.
+
+In this application, the user first has to either take a picture with their webcam or upload an existing picture from their device. The picture can then be enhanced using a number of decorations available in a panel at the left of the editing area. The decorations are divided into several categories, namely cat ears, borders, items, and characters. Once selected on the panel, the decorations are automatically added on top of the original picture, whereupon they can be individually repositioned, resized, and/or deleted. A "Clear all" button is located under the decorations panel, removing all decorations currently on the picture when selected. The user can select "I'm done" to proceed to a screen where they can review their newly-decorated picture and download it as a PNG file.
+
+Once a decoration is placed on the user's picture, it can be selected and moved around by way of a pointing device (mouse, touchscreen etc.) Upon selecting the decoration, it displays two adjacent buttons which perform different actions: one can be dragged to simultaneously rotate and resize the decoration, and the other can be used to delete the decoration. Alternatively, keyboard controls may be used:
+
+Each decoration is identified using its corresponding alt text from the application.
+
+You can transform into a cat version of yourself!Mario and his friends can transform into cat versions of themselves with the help of the Super Bell power-up in the Super Mario 3D World + Bowser’s Fury game. You can upload a photo and add cat ears, decorations, and more to create your own meow-sterpiece at the Cat Transformation Center!

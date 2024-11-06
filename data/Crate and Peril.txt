@@ -1,0 +1,7 @@
+Crate and Peril is a 1-vs.-3 minigame in Mario Party 6 and Mario Party: The Top 100. Its name is a pun on the name of the retail store Crate & Barrel.
+
+The solo player chases the group players into a room with a stage, shrinking and sucking them into a box. The camera points inside the box, then the minigame starts.
+
+The solo player's objective is to shake the box around and eliminate the group players by tilting the Spiny Shells into them. There are four small green dividers in the box that act as walls for the group players and Spiny Shells. The group players must survive for 30 seconds with at least one of them remaining in order to win.
+
+In Mario Party 6, if the team wins, any players who are still standing will perform their victory animations from within the box. If the solo player wins, they will stand on the stage and perform their victory animation.

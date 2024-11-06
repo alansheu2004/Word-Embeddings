@@ -1,0 +1,14 @@
+Feeling Fine is a badge in Paper Mario and Paper Mario: The Thousand-Year Door. In Paper Mario, it can be bought from Merlow at Shooting Star Summit for five Star Pieces. In Paper Mario: The Thousand-Year Door, it can be found in the X-Naut Fortress, inside of a giant crane game that can only be used after returning the Cog to the crane. It can be sold for 150 coins. The badge's effect is applied exclusively to Mario. A variant of the badge called Feeling Fine P has the same effect, but is applied exclusively to Mario's partner.
+
+When equipped, Mario becomes immune to the following negative status conditions:
+
+The following positive status conditions will not be prevented, but will wear off after 1 turn:
+
+Equipping the badge will not prevent the following status conditions:
+
+When equipped, Mario becomes immune to a variety of status conditions:
+
+Equipping the badge will not prevent any other positive status conditions nor the following negative ones:
+
+Consuming a Volt Mushroom, Love Pudding, Peach Tart, or a Mystery while wearing the badge will prevent Mario from becoming Electrified. The effect of Zap Tap will not be prevented, however, and Mario will still become Electrified at the start of battle.
+In the Nintendo Switch remake, Feeling Fine no longer prevents Electrified but does prevent Burned and Frozen.

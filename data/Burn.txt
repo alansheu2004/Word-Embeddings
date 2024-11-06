@@ -1,0 +1,26 @@
+Burn is a status ailment in the Mario & Luigi series, Paper Mario: The Thousand-Year Door and its Nintendo Switch remake, and the Mario + Rabbids series. In the case of the latter three, if a frozen character is burned, both status ailments are negated.
+
+Burn first appears in Mario & Luigi: Superstar Saga. Using the regular or advanced versions of the Fire Bros. Bros. Attack, Mario can sometimes burn enemies, making them lose some HP every turn, similar to Poison. A miniature flame appears to be floating above the enemy, indicating the condition. In Mario & Luigi: Superstar Saga + Bowser's Minions, the status effect acts similarly to its incarnations in recent Mario & Luigi games, and Mario can burn enemies by landing a First Strike on an enemy using the Firebrand. The more dangerous variation of Burn, "Char", also appears, and can be inflicted on enemies as well using the "Super Fire Bros." Super Attack.
+In the remake, sprites exist for Mario and Luigi being inflicted with a Burn, though they are unused.
+
+The Burn status ailment returns in Mario & Luigi: Partners in Time with a change: if a character is burned, that character loses 8 HP every turn and will not be able to attack or dodge, much as a combination of the Poison and Dizzy status ailment. Burn is indicated with the character visibly on fire. The three ways to cure a burn are using a Refreshing Herb, waiting until it wears off, or ending the battle by defeating the enemies with the unaffected character. The Elasto-Piranhas, Shrooboid Brat, Blazing Shroobs, Bowser, Baby Bowser, Skellokeys, Elder Shrooboid and Shroob Rexes are the only enemies to give the Mario Bros. this status effect. Bro Flowers and Mix Flowers can randomly inflict this status ailment on enemies.
+
+The Burn status returns in Mario & Luigi: Bowser's Inside Story with the same effect as in Mario & Luigi: Partners in Time. However, only two enemies can cause the Burn status: Calorite and Bowser. Bowser can also cause the Burn status ailment to enemies by using his fiery breath, and it can be inflicted with the Fire Flower Special Attack. When any enemies (or bosses) are on fire, their idle animation goes much faster. In Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey, the status retains the same function it had in the original game.
+
+The Burn status returns once again in Mario & Luigi: Dream Team with the same effect as in Mario & Luigi: Partners in Time. Some fire-breathing enemies may cause this status to Mario and Luigi, like the Magmads and the Flaming Antasmatons. There is also a more harmful "burn" status effect called "Char". The victim of "burn" takes 10 damage at a time and the victim of "char" takes 30 damage at a time. There is also a hammer item called the Flame Hammer that can burn enemies when used.
+
+The Burn status returns once again in Mario & Luigi: Paper Jam from with the same effect in the past three games. However the victim of "burn" will take 10 damage (20 damage on an enemy) and the victim of "char" will take 30 damage, just like in Mario & Luigi: Dream Team.
+
+This effect returns in Mario & Luigi: Brothership. Provided the player applies the appropriate Battle Plug, Mario and Luigi can burn enemies by scoring an "EXCELLENT" rating with a Jump or Hammer attack.
+
+In Paper Mario: The Thousand-Year Door and its Nintendo Switch remake, Burns behave much the same way as Poison, that is, the afflicted character will lose 1 HP every turn for a number of turns. However, Burn usually won't last as long. Burn is indicated by a small flame at the afflicted's back. It can be cured by some random stage effects that involve water, an attack that inflicts the Freeze ailment, or simply waiting for a few turns. Fiery foes, such as Lava Bubbles, are immune.
+Vivian is capable of inflicting a burn on her enemies using her Shade Fist and Fiery Jinx moves, and Mario can do so as well with the Fire Drive badge. Additionally, it can be caused by the following foes: Fire Bros, Lava Bubbles, Embers, X-Naut PhDs, Phantom Embers, and Grodus, and by the flame-throwing nozzles onstage.
+
+The Burn status returns in Mario + Rabbids Kingdom Battle. This time, inflicted characters take some immediate damage, followed by running around frantically and eventually stopping at a random space after a few seconds have passed. Characters inflicted with this status also have the possibility of inflicting the status to other characters simply by passing through them. Once the inflicted character stops moving, it is immediately cured. Inflicted characters are also vulnerable to reaction shots.
+The following enemies can inflict Burn with their weapons:
+
+Burn is one of the three status effects that cause movement, with the other two being Push and Bounce.
+
+In Mario + Rabbids Sparks of Hope, Burn works similarly to how it does in Mario + Rabbids Kingdom Battle, although the burned character also continues taking damage as they run around.
+
+The Burn Protector Spark Bonus provides a Hero resistance to the Burn Super Effect.

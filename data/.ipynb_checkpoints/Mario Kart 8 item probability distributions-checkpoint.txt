@@ -1,0 +1,11 @@
+The following distributions are used by version 4.1 of Mario Kart 8 to determine the probability of obtaining a certain item when an Item Box is opened. The tables have the same structure seen in Mario Kart 7, with the column number of each item being the same for the items featured in both games and the probability coded as a percentage multiplied by two.
+
+These item probability distributions are used in the demonstrations of the gameplay that are shown in the title screen. Although 20 sets are defined for them, only the second, third and fourth actually contain at least a probability value different from zero.
+
+During races, each probability distribution is chosen depending on the distance from the frontrunner in the moment the Item Box was opened. The distance reported is the one at which the switch to the next distribution happens.
+Versus races feature five additional distributions sets whose distributions are all made to obtain a specific item and whose purpose is unclear. Most of them are reported without the distance as it is not determined whether they are used by drivers controlled by players or by the software.
+
+These five distributions are used for special item drops, such as the items dropped from broken crates.
+
+In Battle Mode, the probability depends both on the time and on the number of balloons left. The conditions reported here are derived from the official Prima Games guide.
+Just like with Versus Races, there are additional distributions sets whose purpose is unclear.

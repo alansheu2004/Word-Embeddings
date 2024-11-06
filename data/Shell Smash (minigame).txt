@@ -1,0 +1,6 @@
+Shell Smash is one of Mario's minigames found in Super Mario 64 DS. 
+
+The rules of the minigame consist of shooting a Green Shell against the Red Shells to gain points. As the shells hit each other, the player initially earns 10 points for the first hit. Subsequent hits on the same turn are worth 10 more points each time, up to 240 from the 24th hit. The points earned are multiplied by 10 if two Green Shells collide, allowing a maximum of 2,400 points to be earned from one hit. A turn ends when all of the shells have come to a complete stop, allowing the next shell to be fired but resetting the score combo. Once the player has shot all five Green Shells, the minigame ends and the results are shown. 
+This minigame is similar to Shuffle Shell, which also involves sliding Koopa shells.
+
+Hit Koopa shells together to score points. Hit many in a row for even more points. Score even higher points by smashing green shells together.

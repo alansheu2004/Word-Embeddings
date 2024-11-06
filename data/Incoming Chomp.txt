@@ -1,0 +1,10 @@
+Incoming Chomps, also referred once to as Giant Wan Wan, are large, chainless Chain Chomps from the Yoshi's Island series. They have also simply been called Chain Chomps due to their ostensible similarity to the base species. Incoming Chomps have a characteristically bouncier movement than that of a regular Chain Chomp; within their series of origin, they spring high in the air as they notice the player character, then plummet near them with enough force to destroy the ground below.
+
+Incoming Chomps first appear in Super Mario World 2: Yoshi's Island. They jump high from the background hills, momentarily going off-screen before crashing into a specific portion in the foreground, destroying everything below them and creating a pit. They also seem to be unlimited in number, or they return to the hill after jumping. They appear only in three levels, Watch Out Below!, Marching Milde's Fort, and Scary Skeleton Goonies!, all three of which have areas marked with signs depicting them. A Yoshi does not lose Baby Mario when hit by one of them, but is quickly shoved to the bottom of the screen if caught under it, causing the player to lose a life. Chomp Rocks, which are stones in the shape of Incoming Chomps, also appear.
+The appearance of these enemies is different between the original SNES game and Yoshi's Island: Super Mario Advance 3, in that the reflective shine is no longer on both sides, and their teeth are shaded on the other side. This is actually made from graphics that were present but unused in the original, likely to save on active sprite tiles due to the number renderable at a time being limited.
+
+Incoming Chomps reappear in Yoshi's Island DS, where they function identically to the first game. A smaller variation simply called a Chomp also appears, and it bounces around the stage, attempting to smash a Yoshi.
+
+In Yoshi's New Island, Incoming Chomps are replaced by a fiery variant which behaves similarly.
+
+In the Mario Kart 8 Deluxe – Booster Course Pass and in Mario Kart Tour, Incoming Chomps can be seen jumping in the background of the Yoshi's Island course. They do not affect gameplay.

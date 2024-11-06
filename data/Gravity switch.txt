@@ -1,0 +1,10 @@
+Gravity switches are switches with the ability to shift the pull of gravity from one plane to another. They first appear in Super Princess Peach.
+
+Gravity switches only occur in Bowser's Villa 8-1. Striking one rotates the room 90°.
+
+They are 2D blocks only found in the Whoa Zone and are required to successfully navigate the area. When hit from beneath, these switches cause one of two effects depending on the symbol featured:
+
+Gravity is only altered for the playable character; enemies and thrown items are unaffected when hitting a gravity switch. A similar effect occurs when using the doors within the Woah Zone, as the orientation of gravity changes based on the orientation of the exit door.
+
+Gravity switches also appear in Super Mario Galaxy and Super Mario Galaxy 2. They can be found in several galaxies, including the Battlerock Galaxy, Dreadnought Galaxy, and Clockwork Ruins Galaxy. These arrows point in the current direction of gravity. When Mario (or Luigi) uses his spin within their vicinity, the arrows change direction and color, along with the direction of gravity. 
+Sometimes, by using other techniques, it is possible for Mario to progress without hitting a gravity switch.

@@ -1,0 +1,8 @@
+Hyper Sniper is a Battle minigame found in Mario Party 6.
+
+The players hit targets showing a Mushroom, cloud, Star, and Fire Flower, respectively. The target screen then begins to scroll as the minigame starts.
+
+Players equipped with a type of gun attempt to shoot the target points to earn points within the time limit as the targets move by. The number shown on the target a player hits tells how many points they earn. If one of the players shoots a Bowser target, that player will lose all of their points. The player(s) with the most points at the end of the minigame win(s).
+This minigame appears as the second-to-last minigame in Decathlon Park. Here, the player's objective is to get the highest score possible to earn as many points as possible, up to 1,000. The default record for this minigame in Decathlon Park is 500 points.
+
+The target screen stops scrolling, and all players turn around. Winners then perform their victory animations while losers perform their losing animations.

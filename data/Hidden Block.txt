@@ -1,0 +1,40 @@
+Hidden Blocks (also formatted as hidden blocks), also called Invisible Blocks (also written all lowercase) and Invisible ? Blocks, are ? Blocks that are invisible to players unless they hit them, turning them into Empty Blocks.
+
+The first Hidden Block, which contained a 1-Up Mushroom, appears after the fourth pipe and before the first pit in World 1-1 in Super Mario Bros. Similarly, Hidden Blocks with 1-Up Mushrooms in them can be found in each world's first level, so long as the player collected all of the coins in the previous world's third level (except in 1-3 where only 21 of the 23 coins need to be collected). Most other Hidden Blocks only hold a single coin. Also, Super Mario Bros. Deluxe's Challenge Mode adds a Hidden Block holding a Yoshi Egg to each level.
+In Super Mario Bros.: The Lost Levels, Hidden Blocks are more often placed to make avoiding enemies more difficult. They are also used to provide viable paths or platforms through courses, usually castles. This is also the first game where Hidden Blocks can contain power-ups, as well as the newly introduced Poison Mushroom.
+In both games, Hidden Blocks with power-ups are among the objects that were originally Toads.
+In the Super Mario All-Stars version of Super Mario Bros.: The Lost Levels, Brick Blocks containing power-ups hidden within the brick walls of Worlds 8-2, 8-3, and D-3 were all replaced with Hidden Blocks due to the brick walls being removed in this version of the game.
+
+After an absence in Super Mario Bros. 2, Hidden Blocks return in Super Mario Bros. 3. They are often used to lead players to secret areas and items. In cave levels, Hidden Blocks' locations are revealed by the different dot coloration exclusively in the Family Computer and Nintendo Entertainment System version.
+
+Hidden Blocks return in Super Mario World. However, certain Hidden Blocks will only be visible and usable when a P Switch is activated.
+
+In the New Super Mario Bros. series, Hidden Blocks return and work as they used to. Some of them may also hold vines. In particular, a Hidden Block containing a power-up can be found near most of the big Warp Doors leading to the tower and castle bosses.
+
+Hidden Blocks make their debut in a 3D Super Mario platformer in Super Mario 3D Land. In this game, some Hidden Blocks can slightly be seen if the player has the 3D function on.
+
+In Super Mario 3D World, the locations of Hidden Blocks can be briefly revealed by ground pounding or by touching the screen or blowing into the microphone of the Wii U GamePad. Wide Hidden Blocks also debut in this game, acting like wide ? Blocks.
+
+In Super Mario Maker, Super Mario Maker for Nintendo 3DS, and Super Mario Maker 2, Hidden Blocks were given a sprite for use in Create mode, as a translucent gray ? Block. In the lesson "Treating the Player Fairly" in Yamamura's Dojo, Yamamura had placed a Hidden Block for Nina to discover by hitting it mid-jump over a pit, interrupting her jump and causing her to fall into the pit, to demonstrate that such design choices are "cheap shots" and make for poor level design. In Create mode, the player can add wings to this block. When playing the course, this winged block will be seen as an invisible object with visible wings. Spike Balls, only in Super Mario Maker 2, can activate these blocks, winged or not, and will break if the block is low enough. This happens only when one bounces from under the Hidden Block.
+
+Hidden Blocks appear in Super Mario Odyssey, working as they did in Super Mario 3D World. When Mario puts on a Moe-Eye's sunglasses after capturing it, he is able to see Hidden Blocks. Occasionally, Mario can see highly translucent Hidden Blocks by moving the camera to a fairly precise position. The player can also hear a sound when this happens.
+
+In Super Mario RPG: Legend of the Seven Stars, hidden treasures are invisible treasure boxes that contain various items from Frog Coins, Flowers, powerful healing items, and items used in battle. When Mario jumps at a spot where a hidden treasure is, it first reveals itself, and jumping at the revealed hidden treasure allows Mario to collect its contents. There are 39 hidden treasures in the game.
+
+In Paper Mario, the player may come across hidden blocks containing coins, healing items, badges, and other items, while some are also used as stepping stones to reach other areas. Such blocks can be found by using Watt's field ability. There are 47 Hidden Blocks in the game.
+
+Hidden blocks function the same way in Paper Mario: The Thousand-Year Door. The player can use Ms. Mowz's field ability to find them. There are 15 hidden blocks in the original game and 22 in the remake.
+
+Hidden blocks function the same way in Super Paper Mario. The player can use Tippi's field ability (by pointing the Wii remote on the screen) to find them. There are 18 hidden blocks in the game.
+
+In Paper Mario: Sticker Star, hidden blocks contain either coins or Stickers. Mario can reveal them with his hammer or his jump. There are 84 hidden blocks in the game.
+
+Hidden blocks function the same way in as in Sticker Star in Paper Mario: Color Splash. In this game, each Hidden Block contains one coin or a Battle Card. There are 43 hidden blocks in the game.
+
+In Paper Mario: The Origami King, Hidden Blocks are found more commonly and must be found to achieve the ? Block Head Trophy. They can be detected with the Hidden Block Unhider and Hidden Block Alert, and are revealed when struck from below or with Mario's hammer. Hidden Blocks can contain coins, Collectible Treasures, and weapons, such as Fire Hammers. Revealing a Hidden Block and leaving the area before releasing its contents will revert the block to a hidden state.
+
+Hidden Blocks appear in Mario & Luigi: Superstar Saga, containing the elusive Hoo Beans. Such blocks are found by jumping around at suspicious platforms or patterns, or in seemingly "empty" dead ends. There are a total of 42 Hidden Blocks in the game (41 in the remake). In the 3DS remake, Mario & Luigi: Superstar Saga + Bowser's Minions, the Hidden Blocks are necessary for 100% completion, as they are added to the block total. They also now gain a distinctive shine over them every once in a while, making their exact location a bit easier to find. There is also a piece of equipment called the Secret Specs (which replaces the Power Grip from the original) that makes them even more visible when a brother wears them; it can be obtained at the Starbeans Cafe after brewing a fifth unique blend of Bean Juice.
+
+Hidden Blocks appear in Mario & Luigi: Bowser's Inside Story and Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey. They first appear in the Flab Zone to allow Mario and Luigi to access certain otherwise unreachable platforms, and later appear in Toad Town Mall during the Mushroom Ball Derby sidequest, in which case they contain Mushroom Balls, in Peach's Castle Garden as invisible Attack Piece Blocks containing the last three Attack Pieces of the Special Attack, Falling Star, and in the Airway, which is needed to reach one unreachable platform. In all cases, they turn into empty blocks once hit, but those in Toad Town Mall disappear soon after the player obtains the Mushroom Ball.
+
+A Hidden Block appears in the Mushroomy Kingdom stage in Super Smash Bros. Brawl, Super Smash Bros. for Nintendo 3DS, and Super Smash Bros. Ultimate, in the same location as in World 1-1 of Super Mario Bros., though it is a block lower, and like the ? Blocks in the stage, it gives an item, rather than its original contents.
